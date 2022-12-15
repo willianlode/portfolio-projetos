@@ -1,3 +1,5 @@
-# Repostório do desafio da DIO sobre git/github
-## Desafio de projeto sobre git/github
-Repositório criado como parte do curso bootcamp em parceria com o Banco Inter
+# Portfólio de projetos 
+## Desenvolvimento full-stack
+Repositório criado para criação de um portóflio profissional
+
+1- Bootcamp DIO/Inter
